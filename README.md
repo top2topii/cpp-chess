@@ -25,3 +25,11 @@
 - [SDL2](https://www.libsdl.org/)
 - [SDL2 Tutorial](https://lazyfoo.net/tutorials/SDL/index.php)
 - [sample code for chess SDL2](https://github.com/Candyris/Chess_SDL2-linux)
+
+### Stockfish Engine download
+
+- Linux: (<https://github.com/official-stockfish/Stockfish/releases/latest/download/stockfish-ubuntu-x86-64-avx2.tar>)
+
+### GUI
+
+- (https://github.com/cucumberbolts/Chess)
