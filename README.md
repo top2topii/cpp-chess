@@ -25,6 +25,7 @@
 - [SDL2](https://www.libsdl.org/)
 - [SDL2 Tutorial](https://lazyfoo.net/tutorials/SDL/index.php)
 - [sample code for chess SDL2](https://github.com/Candyris/Chess_SDL2-linux)
+- [Chess SDL2 C++](https://www.youtube.com/watch?v=39hWcYu-0vY)
 
 ### Stockfish Engine download
 
@@ -32,4 +33,4 @@
 
 ### GUI
 
-- (https://github.com/cucumberbolts/Chess)
+- (<https://github.com/cucumberbolts/Chess>)
