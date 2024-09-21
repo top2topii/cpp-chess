@@ -14,7 +14,7 @@
 ## 개발 환경
 
 - 클라이언트는 윈도우10이상의 환경 지원
-- 렌더링 엔진은 SDL2를 고려
+- 렌더링 엔진은 SDL2를 고려-> Unreal Engine 사용으로 변경
 
 ## 개발 문서 정리 방법
 
@@ -29,7 +29,9 @@
 
 ### Stockfish Engine download
 
-- Linux: (<https://github.com/official-stockfish/Stockfish/releases/latest/download/stockfish-ubuntu-x86-64-avx2.tar>)
+- Releases: (<https://github.com/official-stockfish/Stockfish/releases>)
+- Windows: (<https://github.com/official-stockfish/Stockfish/releases/download/sf_17/stockfish-windows-x86-64-avx2.zip>)
+- Linux: (<https://github.com/official-stockfish/Stockfish/releases/stockfish-ubuntu-x86-64-avx2.tar>)
 
 ### GUI
 
