@@ -12,3 +12,5 @@
 
 ### UCI 관련정보
 - [python uci engine communication](https://python-chess.readthedocs.io/en/v0.25.0/uci.html)
+- [UCI](https://www.shredderchess.com/chess-features/uci-universal-chess-interface.html)
+- [UCI Protocol](https://backscattering.de/chess/uci/)
